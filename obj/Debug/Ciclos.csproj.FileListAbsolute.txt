@@ -1,0 +1,7 @@
+C:\WorkspaceLediane\Ciclos\bin\Debug\Ciclos.exe.config
+C:\WorkspaceLediane\Ciclos\bin\Debug\Ciclos.exe
+C:\WorkspaceLediane\Ciclos\bin\Debug\Ciclos.pdb
+C:\WorkspaceLediane\Ciclos\obj\Debug\Ciclos.csproj.AssemblyReference.cache
+C:\WorkspaceLediane\Ciclos\obj\Debug\Ciclos.csproj.CoreCompileInputs.cache
+C:\WorkspaceLediane\Ciclos\obj\Debug\Ciclos.exe
+C:\WorkspaceLediane\Ciclos\obj\Debug\Ciclos.pdb
